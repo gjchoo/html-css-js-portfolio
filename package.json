@@ -16,6 +16,7 @@
     "template",
     "codesandbox"
   ],
+  
   "author": "Choo Gian Jie",
   "license": "MIT",
   "devDependencies": {
